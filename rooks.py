@@ -1,6 +1,4 @@
 # Filename: rooks.py
-# Author: Zack Fitzsimmons 
-# Date: Fall 2020
 #
 # Description: Implementation of the nrooks problem to be
 # solved using the Glucose3 SAT solver.
